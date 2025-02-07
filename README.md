@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Sharma</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/zO2xC45di4IAAAAM/tomuda.gif">
+ <img src="https://media.tenor.com/zO2xC45di4IAAAAM/tomuda.gif" width="300" height="200" alt="Funny GIF" />
 
 - 🔭 I’m always working on exciting web projects and exploring new technologies.  
 
