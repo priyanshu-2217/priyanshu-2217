@@ -21,7 +21,7 @@
 
 ### 📊 GitHub Streak Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-2217&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
