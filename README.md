@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Sharma</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="right">
-  <img src="https://media.tenor.com/zO2xC45di4IAAAAM/tomuda.gif" width="200" height="150" alt="Funny GIF" />
-</p>
-
 - 🔭 I’m always working on exciting web projects and exploring new technologies.  
 
 - 💻 I have experience working with the **MERN stack** and building full-stack applications.  
