@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Sharma</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
- <img src="https://media.tenor.com/zO2xC45di4IAAAAM/tomuda.gif" width="300" height="200" alt="Funny GIF" />
+<p align="left">
+  <img src="https://media.tenor.com/zO2xC45di4IAAAAM/tomuda.gif" width="200" height="150" alt="Funny GIF" />
+</p>
 
 - 🔭 I’m always working on exciting web projects and exploring new technologies.  
 
@@ -16,8 +18,6 @@
 - 📫 How to reach me **priyan90204@gmail.com**  
 
 - ⚡ Fun fact **I think I am funny 😎**  
-
----
 
 ### 📊 GitHub Streak Stats  
 <p align="center">
