@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/@priyanshu_220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@priyanshu_220" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priyanshu-sharma-959194263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-sharma-959194263" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/priyan2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyan2003" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/priyanshu-2217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu-2217" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/priyanol1r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="priyanol1r" height="30" width="40" /></a>
 </p>
 
@@ -44,10 +44,10 @@
 
 <h3 align="left">GitHub Streak & Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyan2003&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-2217&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyan2003&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyan2003&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-2217&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-2217&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
