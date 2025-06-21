@@ -33,10 +33,7 @@
 <a href="https://www.leetcode.com/priyanshu-2217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu-2217" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/priyanol1r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="priyanol1r" height="30" width="40" /></a>
 </p>
-<h3>🧪 Quick Demo</h3>
-<p>
-  <img src="https://yourcdn.com/demo.gif" alt="App Demo" width="400"/>
-</p>
+
 
 ---
 
