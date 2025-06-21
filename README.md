@@ -2,29 +2,24 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 - 🔭 I’m always working on exciting web projects and exploring new technologies.  
-
 - 💻 I have experience working with the **MERN stack** and building full-stack applications.  
-
 - 🌱 I’m currently learning **Next.js**  
-
 - 👯 I’m looking to collaborate on **new projects**  
-
 - 💬 Ask me about **anything**  
-
 - 📫 How to reach me **priyan90204@gmail.com**  
-
 - ⚡ Fun fact **I think I am funny 😎**  
-
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@priyanshu_220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@priyanshu_220" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/priyanshu-sharma-959194263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/priyanshu-sharma-959194263" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/priyanshu-sharma-959194263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-sharma-959194263" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/priyan2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyan2003" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/priyanol1r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="priyanol1r" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -43,4 +38,16 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+</p>
+
+---
+
+<h3 align="left">GitHub Streak & Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyan2003&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyan2003&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyan2003&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
