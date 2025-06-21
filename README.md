@@ -18,6 +18,10 @@
 <a href="https://www.leetcode.com/priyanshu-2217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu-2217" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/priyanol1r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="priyanol1r" height="30" width="40" /></a>
 </p>
+<h3>🧪 Quick Demo</h3>
+<p>
+  <img src="https://yourcdn.com/demo.gif" alt="App Demo" width="400"/>
+</p>
 
 ---
 
@@ -48,6 +52,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-2217&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-2217&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
