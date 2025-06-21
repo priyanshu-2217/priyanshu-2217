@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="middle" width="60%">
       
 <h1 align="left">Hi 👋, I'm Priyanshu Sharma</h1>
 <h3 align="left">A passionate full stack developer</h3>
