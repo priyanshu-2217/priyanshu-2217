@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Sharma</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      
+<h1 align="left">Hi 👋, I'm Priyanshu Sharma</h1>
+<h3 align="left">A passionate full stack developer</h3>
 
 - 🔭 I’m always working on exciting web projects and exploring new technologies.  
 - 💻 I have experience working with the **MERN stack** and building full-stack applications.  
@@ -8,6 +12,18 @@
 - 💬 Ask me about **anything**  
 - 📫 How to reach me **priyan90204@gmail.com**  
 - ⚡ Fun fact **I think I am funny 😎**  
+
+   </td>
+   <td valign="top" width="40%">
+   
+<p align="center">
+  <img src="https://yourcdn.com/demo.gif" alt="App Demo" width="250"/>
+</p>
+
+   </td>
+  </tr>
+</table>
+
 
 ---
 
