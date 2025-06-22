@@ -60,7 +60,8 @@
 
 <h3 align="left">GitHub Streak & Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-2217&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=priyanshu-2217&theme=tokyonight" alt="GitHub Streak" />
+
 </p>
 
 <p align="center">
