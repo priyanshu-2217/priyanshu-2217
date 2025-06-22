@@ -57,12 +57,20 @@
 </p>
 
 ---
+---
 
-<h3 align="left">GitHub Streak & Stats:</h3>
+### 📊 GitHub Streak & Stats
+
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=priyanshu-2217)](https://git.io/streak-stats)
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=priyanshu-2217&theme=tokyonight" alt="GitHub Streak"/>
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-2217&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 <p align="center">
   
