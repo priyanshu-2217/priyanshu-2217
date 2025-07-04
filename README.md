@@ -2,7 +2,7 @@
   <tr>
     <td valign="middle" width="60%">
 
-<h1 align="left">Hi 👋, I'm Priyanshu Sharma</h1>
+<h1 align="left">Hi 👋, I'm Priyanshu Sharma </h1>
 <h3 align="left">A passionate full stack developer</h3>
 
 - 🔭 I’m always working on exciting web projects and exploring new technologies.  
