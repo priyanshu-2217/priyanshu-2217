@@ -14,7 +14,7 @@
 - ⚡ Fun fact: **I think I am funny 😎**
 
 </td>
-<td valign="middle" width="40%">
+<td valign="middle" width="40%" >
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVmMG0yc253bWh5dXpzemc2ZTlvaXBpbDdwMnQ0ODl0cWdsM3gyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Animated Developer" width="250"/>
 </p>
